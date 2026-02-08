@@ -22,10 +22,3 @@ The all-in-one solution for Solana wallet farming and transaction replication. T
 * Security: aes-gcm encryption
 
 ---
-
-## 📦 Installation & Usage
-
-1. Clone the repo:
-   `bash
-   git clone [https://github.com/YOUR_NICK/solana-ultimate-combine.git](https://github.com/YOUR_NICK/solana-ultimate-combine.git)
-   cd solana-ultimate-combine**
