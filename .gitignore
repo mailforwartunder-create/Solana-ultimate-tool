@@ -1,0 +1,5 @@
+/target
+wallet_commander/wallets.enc
+wallet_commander/wallets.json
+wallet_commander/Cargo.lock
+.env
